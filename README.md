@@ -1,20 +1,24 @@
 <div align="center">
-<img src="https://github.com/innng/innng/assets/26755058/5e0ce0fb-c544-4f8c-a307-5849165746d0" width="25%" align="right" />
-<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello+hello;I'm+Ing%2C+a+tech+goblin+and+magical+girl+wannabe+%E2%9C%A9" width="70%" />
+
+<img src="./IMG_0248.jpeg" width="25%" align="right" alt="Cat illustration" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&amp;weight=500&amp;size=50&amp;duration=4000&amp;pause=300&amp;color=A7A459&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=false&amp;random=false&amp;width=1300&amp;height=140&amp;lines=Hello+hello;I'm+Alaa%2C+exploring+tech%2C+code+and+art+%E2%9C%A9" width="70%" alt="Hello hello. I'm Alaa, exploring tech, code and art." />
+
 <br><br>
+
 <pre>
-    💼 BSC @ UFMG • Back-end dev • Platform Engineer
-    💻 System programming languages • DevOps 
-    📖 Software architecture • Distributed systems
-    🎮 Music • Games • Anime • Code • Art
-    🐾 Muffin 🐰 • Cake & Cookie & Pudim & Quindim & Mingau 🐤🐥
+    🎓 Computing student @ King Abdulaziz University
+    💻 Learning Java • Python basics
+    🤖 Interested in AI • Robotics • IoT
+    🎨 Digital art • Games • Anime
+    🐾 Cat lover • Curious about science &amp; space
 </pre>
+
 <br>
-<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
+
+<!-- GIF source: https://tenor.com/view/sleepykitty-sleepy-kitty-pixel-cartoon-gif-5092247 -->
+<img src="https://media1.tenor.com/m/bQjSOmDipa8AAAAd/sleepykitty-sleepy.gif" height="70" alt="Sleepy cat" />
+
 <br><br>
-    
-<!-- [![](https://img.shields.io/badge/linkedin-0a66c2)](http://linkedin.com/in/ingridrosselis) -->
-<!-- [![](https://img.shields.io/badge/mastodon-6364ff)](https://tech.lgbt/@innng) -->
-[![](https://img.shields.io/badge/osu!-ff66ab)](https://osu.ppy.sh/users/4606212)
-[![](https://img.shields.io/badge/enka.network-69899c)](https://enka.network/u/Inng/1A4HU1/10000069/1985924/)
+
 </div>
